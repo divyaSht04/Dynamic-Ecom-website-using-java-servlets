@@ -33,4 +33,4 @@ This is a dynamic e-commerce website where users can browse products, add items 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dynamic-ecom-website.git
+   git clone https://github.com/divyaSht04/Dynamic-Ecom-website-using-java-servlets.git
